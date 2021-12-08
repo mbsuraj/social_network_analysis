@@ -6,4 +6,6 @@ This notebook is a simple demonstration of how we can use social network analysi
 The code is written in .pynb i.e. python notebook format.
 
 ## Setup
-Modify the edgeFile input and specify the entity / node you want to perform network analysis and give recommendation.
+1. Modify the edgeFile input.
+2. specify the entity / node you want to perform network analysis.
+3. Get recommendations driven by social network analysis.
